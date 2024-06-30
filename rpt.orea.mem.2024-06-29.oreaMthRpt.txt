@@ -1,0 +1,265 @@
++--------------------------------------+---------+---------------------+---------------------+
+| orgId                                | orgName | dtFrom              | dtTo                |
++--------------------------------------+---------+---------------------+---------------------+
+| 8F1CB47A-6350-11E7-B3E0-00163E53EE9D | OREA    | 2024-03-01 00:00:00 | 2024-04-01 00:00:00 |
++--------------------------------------+---------+---------------------+---------------------+
++-----------+-------------------------------------------------------------------+-----------------------------------+
+| orgFaqKey | name                                                              | freq                              |
++-----------+-------------------------------------------------------------------+-----------------------------------+
+| ORE       | ORWP                                                              | 90.000000000000000000000000000000 |
+| ORE       | Standard Forms                                                    | 62.000000000000000000000000000000 |
+| ORE       | ORWP - Plan Enrollment                                            | 20.000000000000000000000000000000 |
+| ORE       | CBS Welcome Email                                                 | 19.000000000000000000000000000000 |
+| ORE       | ORWP Member Portal                                                | 17.000000000000000000000000000000 |
+| ORE       | Forms Explained                                                   | 15.000000000000000000000000000000 |
+| ORE       | Standard Forms Updates                                            | 14.000000000000000000000000000000 |
+| ORP       | General Information                                               | 12.000000000000000000000000000000 |
+| ORE       | Form 810                                                          | 10.000000000000000000000000000000 |
+| ORE       | Standard Forms MENU                                               | 10.000000000000000000000000000000 |
+| ORP       | Contact Us Please                                                 | 10.000000000000000000000000000000 |
+| ORE       | Main Menu                                                         |  9.000000000000000000000000000000 |
+| ORE       | ORWP - Health Claims                                              |  7.000000000000000000000000000000 |
+| ORE       | Download Standard Forms                                           |  7.000000000000000000000000000000 |
+| ORP       | Invoice                                                           |  7.000000000000000000000000000000 |
+| ORE       | Form 200 - GENERAL USE                                            |  6.000000000000000000000000000000 |
+| ORE       | ORWP Additional Coverage Plans                                    |  6.000000000000000000000000000000 |
+| ORE       | Standard Forms FAQs                                               |  6.000000000000000000000000000000 |
+| ORP       | Contact Us                                                        |  6.000000000000000000000000000000 |
+| ORE       | Current Member Discount Programs                                  |  6.000000000000000000000000000000 |
+| ORE       | Standard Forms Videos                                             |  6.000000000000000000000000000000 |
+| ORE       | Form 230                                                          |  6.000000000000000000000000000000 |
+| ORE       | ORWP Family Plans                                                 |  5.000000000000000000000000000000 |
+| ORE       | ORWP - Plans                                                      |  5.000000000000000000000000000000 |
+| ORP       | Update Profile                                                    |  5.000000000000000000000000000000 |
+| ORE       | 01 Form for working with a realtor                                |  5.000000000000000000000000000000 |
+| ORE       | Residential and Commercial Clauses                                |  5.000000000000000000000000000000 |
+| ORE       | What is New                                                       |  4.000000000000000000000000000000 |
+| ORP       | Small talk - hi                                                   |  4.000000000000000000000000000000 |
+| ORE       | ORWP - Contact Info                                               |  4.000000000000000000000000000000 |
+| ORP       | Transcript                                                        |  3.000000000000000000000000000000 |
+| ORE       | Form 801 - GENERAL USE                                            |  3.000000000000000000000000000000 |
+| ORE       | Webinars                                                          |  3.000000000000000000000000000000 |
+| ORP       | RECO Mandatory Continuing Education                               |  3.000000000000000000000000000000 |
+| ORE       | Forms And TRESA                                                   |  3.000000000000000000000000000000 |
+| ORE       | 00 - Individual Situation Query                                   |  2.000000000000000000000000000000 |
+| ORE       | Create Case                                                       |  2.000000000000000000000000000000 |
+| ORE       | I'm looking for the plain language forms                          |  2.000000000000000000000000000000 |
+| ORP       | My Portfolio                                                      |  2.000000000000000000000000000000 |
+| ORE       | Certificate Number                                                |  2.000000000000000000000000000000 |
+| ORE       | Form 560 - GENERAL USE                                            |  2.000000000000000000000000000000 |
+| ORP       | Bye                                                               |  2.000000000000000000000000000000 |
+| ORE       | Standard Forms Memos                                              |  2.000000000000000000000000000000 |
+| ORE       | Listing or Selling a business OR Sale of a business               |  2.000000000000000000000000000000 |
+| ORE       | ORWP Opt Out                                                      |  2.000000000000000000000000000000 |
+| ORE       | ORWP Program Administrator and Insurance Carriers                 |  2.000000000000000000000000000000 |
+| ORP       | Login Help                                                        |  2.000000000000000000000000000000 |
+| ORP       | TRESA                                                             |  2.000000000000000000000000000000 |
+| ORP       | Registration with RECO                                            |  2.000000000000000000000000000000 |
+| ORE       | ORWP Benefits Card                                                |  2.000000000000000000000000000000 |
+| ORE       | Maple Virtual Healthcare Service                                  |  2.000000000000000000000000000000 |
+| ORE       | CBS Webinars                                                      |  2.000000000000000000000000000000 |
+| ORP       | Exam Reschedule                                                   |  1.000000000000000000000000000000 |
+| ORE       | Form 101 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORP       | TRESA - Phase 2                                                   |  1.000000000000000000000000000000 |
+| ORP       | College Menu                                                      |  1.000000000000000000000000000000 |
+| ORE       | Form 105 - SEARCH/FIND SCHEDULE APS                               |  1.000000000000000000000000000000 |
+| ORP       | Enrollment                                                        |  1.000000000000000000000000000000 |
+| ORE       | Form 100 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORP       | OREA Member Login                                                 |  1.000000000000000000000000000000 |
+| ORP       | TRESA - Webinars                                                  |  1.000000000000000000000000000000 |
+| ORE       | Form 500 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORE       | ORWP - Access your Insurance Coverage and Policy Number           |  1.000000000000000000000000000000 |
+| ORE       | Member Discounts                                                  |  1.000000000000000000000000000000 |
+| ORE       | Member Discounts on Rogers                                        |  1.000000000000000000000000000000 |
+| ORP       | RECO New Consumer Information Guide                               |  1.000000000000000000000000000000 |
+| ORP       | Who is the head of Standard Forms                                 |  1.000000000000000000000000000000 |
+| ORE       | Form 346 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORE       | 01 Board/Association Data form or Input form/MLS Data sheet Query |  1.000000000000000000000000000000 |
+| ORE       | Form 320 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORE       | Form 101 - MEETINGS                                               |  1.000000000000000000000000000000 |
+| ORE       | Add Beneficiary                                                   |  1.000000000000000000000000000000 |
+| ORE       | Forms Webinars                                                    |  1.000000000000000000000000000000 |
+| ORE       | Form 216                                                          |  1.000000000000000000000000000000 |
+| ORP       | Volunteering - Apply Now                                          |  1.000000000000000000000000000000 |
+| ORE       | Which form should I use?                                          |  1.000000000000000000000000000000 |
+| ORE       | Form 221 - WHEN TO USE                                            |  1.000000000000000000000000000000 |
+| ORE       | Form 300 - GENERAL USE                                            |  1.000000000000000000000000000000 |
+| ORE       | ORWP Standard Plan                                                |  1.000000000000000000000000000000 |
+| ORP       | ORWP                                                              |  1.000000000000000000000000000000 |
+| ORE       | ORWP - Cost to the Members                                        |  1.000000000000000000000000000000 |
+| ORE       | 00 - Individual Situation Clause                                  |  1.000000000000000000000000000000 |
+| ORP       | What does OREA Stand for                                          |  1.000000000000000000000000000000 |
+| ORP       | Course Materials                                                  |  1.000000000000000000000000000000 |
+| ORE       | Difference between 2 forms/Multiple forms                         |  1.000000000000000000000000000000 |
+| ORE       | Form 360                                                          |  1.000000000000000000000000000000 |
+| ORE       | 01 Land Purchase Form                                             |  1.000000000000000000000000000000 |
+| ORP       | College                                                           |  1.000000000000000000000000000000 |
+| ORP       | Registration Renewal                                              |  1.000000000000000000000000000000 |
+| ORE       | Forms Index at a glance                                           |  1.000000000000000000000000000000 |
+| ORE       | Form 815                                                          |  1.000000000000000000000000000000 |
+| ORE       | 01 Form for Lockbox consent                                       |  1.000000000000000000000000000000 |
+| ORE       | TELUS Health (formerly Lifeworks)                                 |  1.000000000000000000000000000000 |
+| ORP       | Our President                                                     |  1.000000000000000000000000000000 |
+| ORP       | OREA Board of Directors                                           |  1.000000000000000000000000000000 |
+| ORE       | AGM                                                               |  1.000000000000000000000000000000 |
+| ORP       | Small talk - pleasantries                                         |  1.000000000000000000000000000000 |
+|           | Other                                                             |  0.000000000000000000000000000000 |
++-----------+-------------------------------------------------------------------+-----------------------------------+
++-----------+----------------------------------+------------------------------------+
+| orgFaqKey | name                             | freq                               |
++-----------+----------------------------------+------------------------------------+
+| ORE       | 08 - ORWP                        | 189.000000000000000000000000000000 |
+| ORE       | 02 - Standard Forms              | 131.000000000000000000000000000000 |
+| ORE       | OREA                             |  57.000000000000000000000000000000 |
+| ORP       | 001 - General Information        |  52.000000000000000000000000000000 |
+| ORE       | 03 - Member Discounts            |   9.000000000000000000000000000000 |
+| ORE       | 0 Forms w/o Forms Explained File |   8.000000000000000000000000000000 |
+| ORP       | 000 - College                    |   7.000000000000000000000000000000 |
+| ORP       | Public Knowledge Base            |   7.000000000000000000000000000000 |
+| ORP       | 004 - TRESA                      |   5.000000000000000000000000000000 |
+| ORE       | 06 - What is New                 |   4.000000000000000000000000000000 |
+| ORE       | 09 - Webinars                    |   4.000000000000000000000000000000 |
+| ORE       | Create Case                      |   2.000000000000000000000000000000 |
+| ORP       | Contacts at OREA                 |   2.000000000000000000000000000000 |
+| ORP       | 003 - Volunteering               |   1.000000000000000000000000000000 |
+| ORP       | 005 - ORWP Public                |   1.000000000000000000000000000000 |
+| ORP       | 006 - Other                      |   1.000000000000000000000000000000 |
+| ORP       | About OREA                       |   1.000000000000000000000000000000 |
+| ORE       | 07 - Seasonal Questions          |   1.000000000000000000000000000000 |
+|           | Other                            |   0.000000000000000000000000000000 |
++-----------+----------------------------------+------------------------------------+
++-------------------------------------+
+| ResultId                            |
++-------------------------------------+
+| Result 3.a Standard Forms Explained |
++-------------------------------------+
++-----------+------------------------+------+
+| orgFaqKey | name                   | freq |
++-----------+------------------------+------+
+| ORE       | Form 810               |   10 |
+| ORE       | Form 200 - GENERAL USE |    6 |
+| ORE       | Form 801 - GENERAL USE |    3 |
+| ORE       | Form 560 - GENERAL USE |    2 |
+| ORE       | Form 320 - GENERAL USE |    1 |
+| ORE       | Form 500 - GENERAL USE |    1 |
+| ORE       | Form 100 - GENERAL USE |    1 |
+| ORE       | Form 101 - MEETINGS    |    1 |
+| ORE       | Form 101 - GENERAL USE |    1 |
+| ORE       | Form 346 - GENERAL USE |    1 |
+| ORE       | Form 300 - GENERAL USE |    1 |
+| ORE       | Form 815               |    1 |
++-----------+------------------------+------+
++----------------------------------------------+
+| ResultId                                     |
++----------------------------------------------+
+| Result 3.b Standard Forms - Topics in detail |
++----------------------------------------------+
++-----------+-------------------------------------+------+
+| orgFaqKey | name                                | freq |
++-----------+-------------------------------------+------+
+| ORE       | Form 105 - SEARCH/FIND SCHEDULE APS |    1 |
+| ORE       | Form 221 - WHEN TO USE              |    1 |
++-----------+-------------------------------------+------+
++-------------------------------------+
+| ResultId                            |
++-------------------------------------+
+| Result 3.c Standard Forms - General |
++-------------------------------------+
++-----------+-------------------------------------------------------------------+------+
+| orgFaqKey | name                                                              | freq |
++-----------+-------------------------------------------------------------------+------+
+| ORE       | Form 230                                                          |    6 |
+| ORE       | 01 Form for working with a realtor                                |    5 |
+| ORE       | Listing or Selling a business OR Sale of a business               |    2 |
+| ORE       | I'm looking for the plain language forms                          |    2 |
+| ORE       | 00 - Individual Situation Query                                   |    2 |
+| ORE       | Which form should I use?                                          |    1 |
+| ORE       | Difference between 2 forms/Multiple forms                         |    1 |
+| ORE       | 01 Land Purchase Form                                             |    1 |
+| ORE       | 00 - Individual Situation Clause                                  |    1 |
+| ORE       | Form 216                                                          |    1 |
+| ORE       | 01 Board/Association Data form or Input form/MLS Data sheet Query |    1 |
+| ORE       | 01 Form for Lockbox consent                                       |    1 |
+| ORE       | Form 360                                                          |    1 |
++-----------+-------------------------------------------------------------------+------+
++-------------------------------------------+
+| ResultId                                  |
++-------------------------------------------+
+| Result 3.d Forms w o Forms Explained File |
++-------------------------------------------+
++-----------+----------+------+
+| orgFaqKey | name     | freq |
++-----------+----------+------+
+| ORE       | Form 230 |    6 |
+| ORE       | Form 216 |    1 |
+| ORE       | Form 360 |    1 |
++-----------+----------+------+
++--------------------------------+
+| ResultId                       |
++--------------------------------+
+| Result 6 OREA Chat Dialog Tree |
++--------------------------------+
++-----------+---------------------------------------------------------+------+
+| orgFaqKey | name                                                    | freq |
++-----------+---------------------------------------------------------+------+
+| ORE       | ORWP                                                    |   90 |
+| ORE       | Standard Forms                                          |   62 |
+| ORE       | ORWP - Plan Enrollment                                  |   20 |
+| ORE       | CBS Welcome Email                                       |   19 |
+| ORE       | ORWP Member Portal                                      |   17 |
+| ORE       | Forms Explained                                         |   15 |
+| ORE       | Standard Forms Updates                                  |   14 |
+| ORE       | Standard Forms MENU                                     |   10 |
+| ORE       | Main Menu                                               |    9 |
+| ORE       | Download Standard Forms                                 |    7 |
+| ORE       | ORWP - Health Claims                                    |    7 |
+| ORE       | ORWP Additional Coverage Plans                          |    6 |
+| ORE       | Standard Forms Videos                                   |    6 |
+| ORE       | Standard Forms FAQs                                     |    6 |
+| ORE       | Current Member Discount Programs                        |    6 |
+| ORE       | ORWP Family Plans                                       |    5 |
+| ORE       | Residential and Commercial Clauses                      |    5 |
+| ORE       | ORWP - Plans                                            |    5 |
+| ORE       | ORWP - Contact Info                                     |    4 |
+| ORE       | What is New                                             |    4 |
+| ORE       | Webinars                                                |    3 |
+| ORE       | Forms And TRESA                                         |    3 |
+| ORE       | ORWP Opt Out                                            |    2 |
+| ORE       | Certificate Number                                      |    2 |
+| ORE       | ORWP Program Administrator and Insurance Carriers       |    2 |
+| ORE       | Standard Forms Memos                                    |    2 |
+| ORE       | Maple Virtual Healthcare Service                        |    2 |
+| ORE       | ORWP Benefits Card                                      |    2 |
+| ORE       | CBS Webinars                                            |    2 |
+| ORE       | ORWP - Access your Insurance Coverage and Policy Number |    1 |
+| ORE       | TELUS Health (formerly Lifeworks)                       |    1 |
+| ORE       | ORWP Standard Plan                                      |    1 |
+| ORE       | Member Discounts                                        |    1 |
+| ORE       | Forms Webinars                                          |    1 |
+| ORE       | ORWP - Cost to the Members                              |    1 |
+| ORE       | Forms Index at a glance                                 |    1 |
+| ORP       | ORWP                                                    |    1 |
+| ORE       | AGM                                                     |    1 |
+| ORE       | Add Beneficiary                                         |    1 |
+| ORE       | Member Discounts on Rogers                              |    1 |
++-----------+---------------------------------------------------------+------+
++-------+-------------------------------------------------+
+| cnt   | dsc                                             |
++-------+-------------------------------------------------+
+| 22124 | 2024-03-01 00:00:00 General Training Data Count |
++-------+-------------------------------------------------+
++-------+---------------------------------------------------+
+| cnt   | dsc                                               |
++-------+---------------------------------------------------+
+| 25049 | 2024-03-01 00:00:00 Explained Training Data Count |
++-------+---------------------------------------------------+
++-------+----------------------------------------------------------+
+| cnt   | dsc                                                      |
++-------+----------------------------------------------------------+
+| 14966 | 2024-03-01 00:00:00 Topics in Detail Training Data Count |
++-------+----------------------------------------------------------+
++------+--------------------------------------------------------+
+| cnt  | dsc                                                    |
++------+--------------------------------------------------------+
+| 2413 | 2024-03-01 00:00:00 Standard Forms Training Data Count |
++------+--------------------------------------------------------+

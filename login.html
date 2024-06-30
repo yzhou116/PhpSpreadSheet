@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.auth0.com/js/lock/11.33.2/lock.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        auth login
+    </h1>
+</body>
+<script>
+    console.log(11);
+    var clientId = 'gi7jg4DVXnIs4oAsqstvFAjYTcHhZcNZ';
+    var domain = 'dev-5sae6nkg.us.auth0.com';
+    var auth0Options = {
+    theme: {
+  //    logo: this.platformLocation.getBaseHrefFromDOM() + "assets/images/ccrLogo.png",
+      primaryColor: "#4285F4"
+    },
+    auth: {
+      responseMode: 'form_post',
+     redirectUrl: 'http://localhost:8080/',
+      responseType: 'token id_token',
+      params: {
+        scope: 'openid email',
+        prompt: 'select_account'
+      }
+    },
+    languageDictionary: {
+        title: "Admin Console",
+        socialLoginInstructions: "<span style=\"font-size: 10px;\">By logging in, you agree to the terms and conditions <a href=\"/oprCns/ccrChat/terms.html\" target=\"blank\">here</a>.</span>"
+    },
+    allowSignUp: false,
+    closable: false,
+  };
+    var lock = new Auth0Lock(clientId, domain,auth0Options);
+    
+    var accessToken = null;
+    var profile = null;
+    lock.show();
+
+
+lock.on('authenticated', function (authResult) {
+  lock.getUserInfo(authResult.accessToken, function (error, profileResult) {
+    if (error) {
+      // Handle error
+      console.log("Login fail")
+      return;
+    }
+
+    accessToken = authResult.accessToken;
+    profile = profileResult;
+    sessionStorage.setItem('access_token',  accessToken);
+    console.log("accessToken ->" + accessToken)
+    console.log("profile ->" + profile)
+    // Update DOM
+  });
+});
+
+</script>
+
+</html>
